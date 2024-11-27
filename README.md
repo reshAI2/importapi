@@ -1,12 +1,11 @@
 # importapi
 Экспорт текста из типов файлов: txt, docs, pdf, url
 
-
-# установить зависимости
+## установить зависимости
 pip install -r requirements.txt
 
-# Запустить тесты
+## Запустить тесты
 pytest test_app.py
 
-# Запустить приложение
+## Запустить приложение
 uvicorn main:app --reload
