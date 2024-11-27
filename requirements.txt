@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+boto3
+unstructured-ingest[confluence]
+pydantic
+pydantic-settings
+python-multipart
+requests
+python-dotenv
+pytest
+httpx
+pytest-mock
