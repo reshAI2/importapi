@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+uvloop
 boto3
 unstructured-ingest[confluence]
 pydantic
